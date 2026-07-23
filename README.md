@@ -64,18 +64,6 @@
 
 <br/>
 
-## GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mostafaabozead&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafaabozead&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=mostafaabozead&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<br/>
 
 ## Currently Learning
 
@@ -94,9 +82,6 @@
   </a>
   <a href="mailto:mostafaabozead283@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/mostafaabozead" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
 
