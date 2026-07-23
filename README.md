@@ -1,100 +1,110 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Mostafa+Abozead;Software+Engineer+%7C+Full-Stack+Developer;Computer+Science+Student;Building+%26+Learning%2C+One+Commit+at+a+Time" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Mostafa%20Abozead&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+
+<a href="https://www.linkedin.com/in/mostafa-abozead-b57391297">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:mostafaabozead283@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/mostafaabozead">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
 <br/>
 
-## About Me
-
-- 🎓 Computer Science student with a strong foundation in software engineering principles
-- 💻 Currently focused on **Full-Stack Development**, building end-to-end web applications
-- 🌱 Actively learning modern frameworks and continuously shipping projects
-- 🤝 Open to collaborating on open-source projects and engineering teams
-- 📫 Always glad to connect with fellow developers and contributors
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full-Stack+Developer+in+Progress;Building+Clean%2C+Scalable+Web+Apps;Open+to+Collaboration+%26+Open+Source" alt="Typing SVG" />
+</div>
 
 <br/>
 
-## Tech Stack
+## 🧭 About Me
+
+I'm a **Computer Science student** focused on building solid, real-world software skills through consistent practice and hands-on projects. I'm currently deepening my expertise in **full-stack web development**, with an emphasis on writing clean, maintainable, and scalable code.
+
+- 🎓 Computer Science student, actively building a strong foundation in software engineering
+- 💻 Focused on **Full-Stack Web Development** — from UI to backend logic
+- 🌱 Currently sharpening my skills in **React.js**, **Node.js**, and **RESTful APIs**
+- 🤝 Open to collaborating on **open-source** and **team-based** projects
+- ⚡ Fast learner who enjoys turning ideas into working, well-structured applications
+- 📫 Reach out if you want to connect, collaborate, or just talk tech
+
+<br/>
+
+## 🛠️ Tech Stack
 
 **Languages**
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
 **Frontend**
-
-<div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-</div>
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
 
 **Backend**
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+</p>
 
 **Tools & Platforms**
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
 
 <br/>
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mostafaabozead&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafaabozead&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mostafaabozead&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafaabozead&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=mostafaabozead&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafaabozead&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
 <br/>
 
-## Currently Learning
+## 🌱 Currently Learning
 
-- ⚙️ Advanced React patterns and state management
-- 🔗 Building robust RESTful APIs with Express.js and Node.js
-- 🏗️ Full-stack application architecture, testing, and deployment workflows
-
-<br/>
-
-## Open to Collaboration
-
-I'm actively looking to contribute to open-source projects and collaborate with other developers on meaningful, well-engineered software. If you're working on something interesting or need an extra pair of hands, feel free to reach out — I'm always open to new ideas and challenges.
+- Advanced **React.js** patterns (Hooks, Context API, performance optimization)
+- Backend architecture with **Node.js** & **Express.js**
+- Database design and integration (**SQL / NoSQL**)
+- Writing clean, testable, and well-documented code
 
 <br/>
 
-## Connect With Me
+## 🤝 Let's Connect
 
-<div align="left">
-  <a href="https://github.com/mostafaabozead" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mostafa-abozead-b57391297">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:mostafaabozead283@gmail.com">
+  <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
 
 <br/>
 
 <div align="center">
-
-*"Good code is written with intention — I'm here to learn, build, and contribute."*
-
+  <em>Always learning, always building — open to opportunities and collaboration.</em>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
