@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=200&section=header&text=Mostafa%20Abozead&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=18" alt="Header Banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Full-Stack+Developer+in+Progress;Building+Real-World+Projects;Open+to+Collaboration+%26+Open+Source" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Full-Stack+Developer;" alt="Typing SVG"/>
 
 </div>
 
